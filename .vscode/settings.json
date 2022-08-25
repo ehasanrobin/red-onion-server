@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "onWindowChange",
+  "workbench.preferredDarkColorTheme": "Community Material Theme High Contrast",
+  "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+  "workbench.preferredLightColorTheme": "Monokai"
+}
